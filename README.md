@@ -1,2 +1,2 @@
-# SQL-Server-
+# SQL Server
 All About SQL Server 
